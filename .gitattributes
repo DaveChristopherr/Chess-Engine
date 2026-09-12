@@ -1,0 +1,6 @@
+# Language overrides for GitHub Linguist
+# Focus language statistics on the core Python chess engine
+app.js linguist-vendored
+style.css linguist-vendored
+dist/** linguist-vendored
+*.py linguist-detectable=true
