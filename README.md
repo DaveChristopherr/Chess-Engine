@@ -43,9 +43,9 @@ This is a personal hobby project that I created out of passion for chess program
 │   └── server.py          # Standalone Python HTTP & API server
 ├── tests/
 │   └── test_engine.py     # Python unittest suite for tactical & speed tests
-├── public/                # Static public assets (logos and avatars)
+├── public/                 # Static public assets (logos and avatars)
 ├── Dave Christopher Logo.png                          # Engine logo and favicon
-├── 521174315.c110b96e.32x32o.c4d93e3c2fc2@2x.png       # Dave Christopher bot avatar
+├── 521174315.c110b96e.32x32o.c4d93e3c2fc2@2x.png      # Dave Christopher bot avatar
 ├── index.html             # Clean HTML presentation
 ├── style.css              # Retro pixel typography & CRT scanline styling
 ├── app.js                 # Vanilla frontend game loop & canvas animations
